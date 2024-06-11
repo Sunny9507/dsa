@@ -5,10 +5,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sunny9507/dsa/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Sunny9507/dsa/tree/master/0042-trapping-rain-water) |
 # Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sunny9507/dsa/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Sunny9507/dsa/tree/master/0042-trapping-rain-water) |
 # Dynamic Programming
 |  |
@@ -22,3 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sunny9507/dsa/tree/master/0042-trapping-rain-water) |
+# Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Sunny9507/dsa/tree/master/0016-3sum-closest) |
