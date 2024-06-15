@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Sunny9507/dsa/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Sunny9507/dsa/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Sunny9507/dsa/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sunny9507/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Sunny9507/dsa/tree/master/0189-rotate-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sunny9507/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 # Two Pointers
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sunny9507/dsa/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sunny9507/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Stack
 |  |
 | ------- |
