@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Sunny9507/dsa/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Sunny9507/dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sunny9507/dsa/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Sunny9507/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sunny9507/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sunny9507/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Sunny9507/dsa/tree/master/0189-rotate-array) |
@@ -65,3 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sunny9507/dsa/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Sunny9507/dsa/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Sunny9507/dsa/tree/master/0074-search-a-2d-matrix) |
+# Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sunny9507/dsa/tree/master/0074-search-a-2d-matrix) |
