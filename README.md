@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Sunny9507/dsa/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sunny9507/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sunny9507/dsa/tree/master/0780-max-chunks-to-make-sorted) |
+| [1242-matrix-block-sum](https://github.com/Sunny9507/dsa/tree/master/1242-matrix-block-sum) |
 # Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Sunny9507/dsa/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Sunny9507/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sunny9507/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [1242-matrix-block-sum](https://github.com/Sunny9507/dsa/tree/master/1242-matrix-block-sum) |
 # Binary Search
 |  |
 | ------- |
@@ -86,3 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sunny9507/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+# Prefix Sum
+|  |
+| ------- |
+| [1242-matrix-block-sum](https://github.com/Sunny9507/dsa/tree/master/1242-matrix-block-sum) |
