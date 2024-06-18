@@ -78,3 +78,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sunny9507/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+# String
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sunny9507/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+# Sliding Window
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sunny9507/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
