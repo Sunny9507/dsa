@@ -53,11 +53,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sunny9507/dsa/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sunny9507/dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sunny9507/dsa/tree/master/0189-rotate-array) |
 # Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sunny9507/dsa/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Sunny9507/dsa/tree/master/0037-sudoku-solver) |
 # Backtracking
 |  |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sunny9507/dsa/tree/master/0013-roman-to-integer) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sunny9507/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 # Sliding Window
 |  |
