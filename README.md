@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Sunny9507/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sunny9507/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sunny9507/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0164-maximum-gap](https://github.com/Sunny9507/dsa/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Sunny9507/dsa/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sunny9507/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sunny9507/dsa/tree/master/0780-max-chunks-to-make-sorted) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Sunny9507/dsa/tree/master/0016-3sum-closest) |
+| [0164-maximum-gap](https://github.com/Sunny9507/dsa/tree/master/0164-maximum-gap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sunny9507/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 # Greedy
 |  |
@@ -95,3 +97,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1242-matrix-block-sum](https://github.com/Sunny9507/dsa/tree/master/1242-matrix-block-sum) |
+# Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Sunny9507/dsa/tree/master/0164-maximum-gap) |
+# Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Sunny9507/dsa/tree/master/0164-maximum-gap) |
