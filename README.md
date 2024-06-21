@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Sunny9507/dsa/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Sunny9507/dsa/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sunny9507/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0565-array-nesting](https://github.com/Sunny9507/dsa/tree/master/0565-array-nesting) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sunny9507/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [1242-matrix-block-sum](https://github.com/Sunny9507/dsa/tree/master/1242-matrix-block-sum) |
 # Two Pointers
@@ -105,3 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Sunny9507/dsa/tree/master/0164-maximum-gap) |
+# Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/Sunny9507/dsa/tree/master/0565-array-nesting) |
