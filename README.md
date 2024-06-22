@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Sunny9507/dsa/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Sunny9507/dsa/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Sunny9507/dsa/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Sunny9507/dsa/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sunny9507/dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sunny9507/dsa/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Sunny9507/dsa/tree/master/0074-search-a-2d-matrix) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sunny9507/dsa/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Sunny9507/dsa/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Sunny9507/dsa/tree/master/0041-first-missing-positive) |
 # Backtracking
 |  |
 | ------- |
