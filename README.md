@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sunny9507/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sunny9507/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0164-maximum-gap](https://github.com/Sunny9507/dsa/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Sunny9507/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sunny9507/dsa/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sunny9507/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0565-array-nesting](https://github.com/Sunny9507/dsa/tree/master/0565-array-nesting) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/Sunny9507/dsa/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/Sunny9507/dsa/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Sunny9507/dsa/tree/master/0169-majority-element) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sunny9507/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 # Greedy
 |  |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Sunny9507/dsa/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Sunny9507/dsa/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sunny9507/dsa/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Sunny9507/dsa/tree/master/0169-majority-element) |
 # Backtracking
 |  |
 | ------- |
@@ -86,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sunny9507/dsa/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sunny9507/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 # String
 |  |
@@ -112,3 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0565-array-nesting](https://github.com/Sunny9507/dsa/tree/master/0565-array-nesting) |
+# Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sunny9507/dsa/tree/master/0169-majority-element) |
