@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Sunny9507/dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sunny9507/dsa/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Sunny9507/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/Sunny9507/dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sunny9507/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sunny9507/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0164-maximum-gap](https://github.com/Sunny9507/dsa/tree/master/0164-maximum-gap) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sunny9507/dsa/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Sunny9507/dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sunny9507/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sunny9507/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 # Stack
