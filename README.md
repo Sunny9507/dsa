@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0565-array-nesting](https://github.com/Sunny9507/dsa/tree/master/0565-array-nesting) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sunny9507/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [1242-matrix-block-sum](https://github.com/Sunny9507/dsa/tree/master/1242-matrix-block-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sunny9507/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Two Pointers
 |  |
 | ------- |
