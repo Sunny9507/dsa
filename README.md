@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Sunny9507/dsa/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Sunny9507/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sunny9507/dsa/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Sunny9507/dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sunny9507/dsa/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sunny9507/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0565-array-nesting](https://github.com/Sunny9507/dsa/tree/master/0565-array-nesting) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Sunny9507/dsa/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/Sunny9507/dsa/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Sunny9507/dsa/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sunny9507/dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sunny9507/dsa/tree/master/0229-majority-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sunny9507/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 # Greedy
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Sunny9507/dsa/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sunny9507/dsa/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Sunny9507/dsa/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sunny9507/dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sunny9507/dsa/tree/master/0229-majority-element-ii) |
 # Backtracking
 |  |
