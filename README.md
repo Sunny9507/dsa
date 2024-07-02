@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sunny9507/dsa/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Sunny9507/dsa/tree/master/0045-jump-game-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sunny9507/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
@@ -161,4 +162,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sunny9507/dsa/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sunny9507/dsa/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
