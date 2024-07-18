@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Sunny9507/dsa/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sunny9507/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sunny9507/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Sunny9507/dsa/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sunny9507/dsa/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunny9507/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0215-kth-largest-element-in-an-array) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sunny9507/dsa/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Sunny9507/dsa/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sunny9507/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
