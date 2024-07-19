@@ -1,24 +1,10 @@
 class Solution {
 public:
-    int strStr(string haystack, string needle) {
-        
-        if (needle.empty()) return 0;
-        
-        
-        int haystackLength = haystack.size();
-        int needleLength = needle.size();
-        
-        if (needleLength > haystackLength) return -1;
-
-        
-        for (int i = 0; i <= haystackLength - needleLength; i++) {
-            
-            if (haystack.substr(i, needleLength) == needle) {
-                return i; 
-            }
-        }
-
-        
+    int strStr(string a, string b) {
+       if(a.size()<b.size())return -1;
+       for(int i=0;i<a.size();i++){
+        if(a.substr(i,b.size())==b)return i;
+       }
         return -1;
     }
 };
