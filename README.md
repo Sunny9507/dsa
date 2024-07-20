@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunny9507/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sunny9507/dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sunny9507/dsa/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/Sunny9507/dsa/tree/master/0812-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunny9507/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Sunny9507/dsa/tree/master/0812-rotate-string) |
 ## Matrix
 |  |
 | ------- |
