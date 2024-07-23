@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sunny9507/dsa/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Sunny9507/dsa/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sunny9507/dsa/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sunny9507/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -206,11 +207,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/Sunny9507/dsa/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Sunny9507/dsa/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Sunny9507/dsa/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunny9507/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Sunny9507/dsa/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sunny9507/dsa/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sunny9507/dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sunny9507/dsa/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/Sunny9507/dsa/tree/master/0812-rotate-string) |
@@ -253,4 +256,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sunny9507/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Sunny9507/dsa/tree/master/2737-row-with-maximum-ones) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sunny9507/dsa/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
