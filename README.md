@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Sunny9507/dsa/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Sunny9507/dsa/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Sunny9507/dsa/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Sunny9507/dsa/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Sunny9507/dsa/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Sunny9507/dsa/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Sunny9507/dsa/tree/master/0078-subsets) |
@@ -268,5 +269,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Sunny9507/dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sunny9507/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
