@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sunny9507/dsa/tree/master/0045-jump-game-ii) |
+| [0072-edit-distance](https://github.com/Sunny9507/dsa/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sunny9507/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sunny9507/dsa/tree/master/0152-maximum-product-subarray) |
 ## Greedy
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/Sunny9507/dsa/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Sunny9507/dsa/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sunny9507/dsa/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Sunny9507/dsa/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Sunny9507/dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sunny9507/dsa/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/Sunny9507/dsa/tree/master/0696-count-binary-substrings) |
