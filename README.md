@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sunny9507/dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunny9507/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Sunny9507/dsa/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Sunny9507/dsa/tree/master/0058-length-of-last-word) |
@@ -275,4 +276,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0046-permutations](https://github.com/Sunny9507/dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sunny9507/dsa/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sunny9507/dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
