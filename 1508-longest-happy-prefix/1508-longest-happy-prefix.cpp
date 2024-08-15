@@ -1,28 +1,30 @@
+#include <vector>
+#include <string>
+
 class Solution {
 public:
     string longestPrefix(string s) {
-        int n = s.length();
-        vector<int> lps(n, 0); // LPS array
+        int n = s.size();
+        vector<int> longestPrefix(n, 0);
 
-        // Construct the LPS array
-        int len = 0; // Length of the previous longest prefix
-        int i = 1;
-        while (i < n) {
-            if (s[i] == s[len]) {
-                len++;
-                lps[i] = len;
-                i++;
+        int pre = 0, suf = 1;
+
+        while (suf < n) {
+            if (s[pre] == s[suf]) {
+                pre++;
+                longestPrefix[suf] = pre;
+                suf++;
             } else {
-                if (len != 0) {
-                    len = lps[len - 1];
+                if (pre == 0) {
+                    longestPrefix[suf] = 0;
+                    suf++;
                 } else {
-                    lps[i] = 0;
-                    i++;
+                    pre = longestPrefix[pre - 1];
                 }
             }
         }
 
-        // The longest happy prefix is the substring from index 0 to lps[n - 1]
-        return s.substr(0, lps[n - 1]);
+        // Return the longest prefix which is also a suffix
+        return s.substr(0, longestPrefix[n - 1]);
     }
 };
