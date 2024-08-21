@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/Sunny9507/dsa/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/Sunny9507/dsa/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Sunny9507/dsa/tree/master/1508-longest-happy-prefix) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Sunny9507/dsa/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
