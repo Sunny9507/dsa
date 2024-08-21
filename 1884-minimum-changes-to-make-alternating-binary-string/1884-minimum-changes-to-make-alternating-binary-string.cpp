@@ -8,22 +8,16 @@ public:
 
         for(int i=0; i<n; i++) {
             if(i % 2 == 0) {
-                if(s[i] == '0'){
-                    startwith_1++;
-                }
-                else{
+                 if(s[i] == '1'){
                     startwith_0++;
                 }
             }
             else {
-                if(s[i] == '1'){
-                    startwith_1++;
-                }
-                else{
+                if(s[i] == '0'){
                     startwith_0++;
                 }
             }
         }
-        return min(startwith_0, startwith_1);
+        return min(startwith_0, n-startwith_0);
     }
 };
