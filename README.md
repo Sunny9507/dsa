@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Sunny9507/dsa/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Sunny9507/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sunny9507/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sunny9507/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sunny9507/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/Sunny9507/dsa/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/Sunny9507/dsa/tree/master/0909-stone-game) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Sunny9507/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sunny9507/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sunny9507/dsa/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sunny9507/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/Sunny9507/dsa/tree/master/0696-count-binary-substrings) |
 ## Binary Search
 |  |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Sunny9507/dsa/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunny9507/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sunny9507/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sunny9507/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sunny9507/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Sunny9507/dsa/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Sunny9507/dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sunny9507/dsa/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Sunny9507/dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sunny9507/dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sunny9507/dsa/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Sunny9507/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sunny9507/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
 |  |
