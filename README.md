@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Sunny9507/dsa/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sunny9507/dsa/tree/master/0152-maximum-product-subarray) |
 | [0909-stone-game](https://github.com/Sunny9507/dsa/tree/master/0909-stone-game) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sunny9507/dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/Sunny9507/dsa/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/Sunny9507/dsa/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sunny9507/dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sunny9507/dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Sunny9507/dsa/tree/master/1508-longest-happy-prefix) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Sunny9507/dsa/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sunny9507/dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
