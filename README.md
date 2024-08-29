@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Sunny9507/dsa/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Sunny9507/dsa/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sunny9507/dsa/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Sunny9507/dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sunny9507/dsa/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Sunny9507/dsa/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Sunny9507/dsa/tree/master/0078-subsets) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Sunny9507/dsa/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sunny9507/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sunny9507/dsa/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Sunny9507/dsa/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sunny9507/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Sunny9507/dsa/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Sunny9507/dsa/tree/master/0217-contains-duplicate) |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sunny9507/dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sunny9507/dsa/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sunny9507/dsa/tree/master/0217-contains-duplicate) |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Sunny9507/dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunny9507/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Sunny9507/dsa/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Sunny9507/dsa/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sunny9507/dsa/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sunny9507/dsa/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Sunny9507/dsa/tree/master/0072-edit-distance) |
