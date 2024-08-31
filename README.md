@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Sunny9507/dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sunny9507/dsa/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Sunny9507/dsa/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Sunny9507/dsa/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Sunny9507/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Sunny9507/dsa/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Sunny9507/dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sunny9507/dsa/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Sunny9507/dsa/tree/master/0231-power-of-two) |
 | [0909-stone-game](https://github.com/Sunny9507/dsa/tree/master/0909-stone-game) |
 ## String
 |  |
@@ -358,4 +360,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Sunny9507/dsa/tree/master/1217-relative-sort-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sunny9507/dsa/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
