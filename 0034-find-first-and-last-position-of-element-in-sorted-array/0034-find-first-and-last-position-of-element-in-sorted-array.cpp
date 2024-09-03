@@ -2,33 +2,23 @@ class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
         int n = nums.size();
-        vector<int> result = {-1, -1}; 
-
-        
-        if (n == 0) {
-            return result;
-        }
+        int first= -1, last = -1; 
 
         
         for (int i = 0; i < n; i++) {
             if (nums[i] == target) {
-                result[0] = i; 
-                break; 
+                if(first == -1){
+                    first = i;
+                }
+                last = i;
             }
         }
 
-        if (result[0] == -1) {
-            return result;
+        if (first == -1) {
+            return {-1, -1};
         }
 
-        
-        for (int j = n - 1; j >= 0; j--) {
-            if (nums[j] == target) {
-                result[1] = j; 
-                break; 
-            }
-        }
 
-        return result; 
+        return {first, last}; 
     }
 };
