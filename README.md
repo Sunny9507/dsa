@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Sunny9507/dsa/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Sunny9507/dsa/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sunny9507/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sunny9507/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sunny9507/dsa/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Sunny9507/dsa/tree/master/0045-jump-game-ii) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sunny9507/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sunny9507/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sunny9507/dsa/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunny9507/dsa/tree/master/0209-minimum-size-subarray-sum) |
