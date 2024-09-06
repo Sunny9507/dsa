@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Sunny9507/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sunny9507/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sunny9507/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0485-max-consecutive-ones](https://github.com/Sunny9507/dsa/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sunny9507/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0898-transpose-matrix](https://github.com/Sunny9507/dsa/tree/master/0898-transpose-matrix) |
