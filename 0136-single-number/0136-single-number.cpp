@@ -9,10 +9,9 @@ public:
             m[nums[i]]++;
 
             for(int i=0; i<n; i++){
-                int key = nums[i];
-                auto temp = m.find(key);
-                if(temp->second == 1)
-                    return key;
+                    
+                if(m.at(nums[i]) == 1)
+                    return nums[i];
             }
         return 0;
     }
