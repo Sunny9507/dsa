@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Sunny9507/dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sunny9507/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sunny9507/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Sunny9507/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sunny9507/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/Sunny9507/dsa/tree/master/0807-custom-sort-string) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sunny9507/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sunny9507/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sunny9507/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/Sunny9507/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0807-custom-sort-string](https://github.com/Sunny9507/dsa/tree/master/0807-custom-sort-string) |
 | [1217-relative-sort-array](https://github.com/Sunny9507/dsa/tree/master/1217-relative-sort-array) |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Sunny9507/dsa/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Sunny9507/dsa/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Sunny9507/dsa/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Sunny9507/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/Sunny9507/dsa/tree/master/0696-count-binary-substrings) |
 | [0807-custom-sort-string](https://github.com/Sunny9507/dsa/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Sunny9507/dsa/tree/master/0812-rotate-string) |
@@ -319,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sunny9507/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/Sunny9507/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sunny9507/dsa/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -333,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sunny9507/dsa/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Sunny9507/dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -407,4 +412,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Sunny9507/dsa/tree/master/1656-count-good-triplets) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sunny9507/dsa/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
