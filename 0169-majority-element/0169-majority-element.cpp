@@ -20,18 +20,47 @@
 
 
 
+// class Solution {
+// public:
+//     int majorityElement(vector<int>& nums) {
+//         map<int, int>m;
+//         for(int i=0; i<nums.size(); i++){
+//             m[nums[i]]++;
+//         }
+
+//         for(auto x : m){
+//             if(x.second > nums.size()/2){
+//                 return x.first;
+//             }
+//         }
+//         return -1;
+//     }
+// };
+
+
+
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        map<int, int>m;
+        int cnt = 0, ele;
         for(int i=0; i<nums.size(); i++){
-            m[nums[i]]++;
-        }
-
-        for(auto x : m){
-            if(x.second > nums.size()/2){
-                return x.first;
+            if(cnt == 0){ 
+                cnt = 1;
+                ele = nums[i];
+            }else if(nums[i] == ele){
+                cnt++;
             }
+            else{
+                cnt--;
+            }
+        }
+        int cnt1 = 0;
+        for(int i=0; i<nums.size(); i++){
+            if(nums[i] == ele) cnt1++;
+        }
+        if(cnt1 > nums.size()/2){
+            return ele;
         }
         return -1;
     }
