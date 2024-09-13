@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Sunny9507/dsa/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sunny9507/dsa/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sunny9507/dsa/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Sunny9507/dsa/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sunny9507/dsa/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Sunny9507/dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sunny9507/dsa/tree/master/0075-sort-colors) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sunny9507/dsa/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Sunny9507/dsa/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Sunny9507/dsa/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sunny9507/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Sunny9507/dsa/tree/master/0139-word-break) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sunny9507/dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sunny9507/dsa/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Sunny9507/dsa/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0215-kth-largest-element-in-an-array) |
