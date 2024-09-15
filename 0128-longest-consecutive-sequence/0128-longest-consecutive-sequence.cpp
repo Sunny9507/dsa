@@ -1,29 +1,33 @@
+#include <vector>
+#include <algorithm>
+#include <limits.h>
+
 class Solution {
 public:
-    int longestConsecutive(vector<int>& nums) {
-        unordered_set<int> S;
-        int ans = 0;
+    int longestConsecutive(std::vector<int>& nums) {
+        if (nums.empty()) return 0; // Check for empty input
 
-        for (int i = 0; i < nums.size(); i++)
-            S.insert(nums[i]);
-        
-    // check each possible sequence from
-    // the start then update optimal length
-        for (int i = 0; i < nums.size(); i++) {
-        // if current element is the starting
-        // element of a sequence
-            if (S.find(nums[i] - 1) == S.end()) {
-            // Then check for next elements
-            // in the sequence
-                int j = nums[i];
-                while (S.find(j) != S.end())
-                    j++;
+        // Sort the numbers
+        std::sort(nums.begin(), nums.end());
 
-            // update  optimal length if
-            // this length is more
-            ans = max(ans, j - nums[i]);
+        int maxi = 1; // Initialize maximum length
+        int cnt = 1;  // Initialize current count
+
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i] == nums[i - 1]) {
+                // Skip duplicates
+                continue;
+            } else if (nums[i] - nums[i - 1] == 1) {
+                // Increment count for consecutive numbers
+                cnt++;
+            } else {
+                // Reset count for non-consecutive numbers
+                cnt = 1;
+            }
+            // Update maximum length
+            maxi = std::max(maxi, cnt);
         }
-    }
-    return ans;
+
+        return maxi; // Return the maximum length found
     }
 };
