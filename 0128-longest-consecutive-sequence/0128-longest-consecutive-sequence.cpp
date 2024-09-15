@@ -5,29 +5,26 @@
 class Solution {
 public:
     int longestConsecutive(std::vector<int>& nums) {
-        if (nums.empty()) return 0; // Check for empty input
+        if (nums.empty()) return 0; 
 
-        // Sort the numbers
         std::sort(nums.begin(), nums.end());
 
-        int maxi = 1; // Initialize maximum length
-        int cnt = 1;  // Initialize current count
+        int lastSmaller = INT_MIN;
+        int cnt = 1;
+        int longest = 0;
 
-        for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] == nums[i - 1]) {
-                // Skip duplicates
+        for (int i = 0; i < nums.size(); i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
-            } else if (nums[i] - nums[i - 1] == 1) {
-                // Increment count for consecutive numbers
-                cnt++;
+            }
+            if (i > 0 && nums[i] == nums[i - 1] + 1) {
+                cnt += 1;
             } else {
-                // Reset count for non-consecutive numbers
                 cnt = 1;
             }
-            // Update maximum length
-            maxi = std::max(maxi, cnt);
+            longest = std::max(longest, cnt);
         }
 
-        return maxi; // Return the maximum length found
+        return longest; 
     }
 };
