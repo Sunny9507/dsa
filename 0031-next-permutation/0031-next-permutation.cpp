@@ -1,34 +1,30 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        if(nums.size() == 1){
-            return ;
+        int n = nums.size();
+
+        // Find the first decreasing element from the right
+        int i = n - 2;
+        while (i >= 0 && nums[i] >= nums[i + 1]) {
+            i--;
         }
 
-        int idx1;
-        for(int i=nums.size()-2; i>=0; i--){
-            if(nums[i] < nums[i+1]){
-                idx1 = i;
-                break;
-            }
-        }
-
-        if(idx1 < 0){
+        // If no decreasing element is found, it's the last permutation
+        if (i < 0) {
             reverse(nums.begin(), nums.end());
+            return;
         }
-        else{
 
-            int idx2 = 0;
-            for(int i=nums.size()-1; i>=0; i--){
-                if(nums[i] > nums[idx1]){
-                    idx2 = i;
-                    break;
-                }
-            }
-            
-            swap(nums[idx1], nums[idx2]);
-
-            sort(nums.begin()+ idx1+1, nums.end());
+        // Find the smallest element greater than nums[i] to the right
+        int j = n - 1;
+        while (nums[j] <= nums[i]) {
+            j--;
         }
+
+        // Swap nums[i] and nums[j]
+        swap(nums[i], nums[j]);
+
+        // Reverse the subarray from i + 1 to the end
+        reverse(nums.begin() + i + 1, nums.end());
     }
 };
