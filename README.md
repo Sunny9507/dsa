@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Sunny9507/dsa/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Sunny9507/dsa/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sunny9507/dsa/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Sunny9507/dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sunny9507/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sunny9507/dsa/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sunny9507/dsa/tree/master/0056-merge-intervals) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Sunny9507/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sunny9507/dsa/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sunny9507/dsa/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Sunny9507/dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sunny9507/dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sunny9507/dsa/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Sunny9507/dsa/tree/master/0231-power-of-two) |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sunny9507/dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sunny9507/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sunny9507/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/Sunny9507/dsa/tree/master/0898-transpose-matrix) |
