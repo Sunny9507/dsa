@@ -3,11 +3,16 @@ public:
     void rotate(vector<vector<int>>& matrix) {
         int n = matrix.size();
 
-        for(int i=0; i<n; i++){
-            for(int j=i; j<n; j++){
-                swap(matrix[i][j], matrix[j][i]);
+        // Create a temporary matrix to store the rotated elements
+        vector<vector<int>> ans(n, vector<int>(n));
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                ans[j][n - i - 1] = matrix[i][j]; // Corrected index calculation
             }
-            reverse(matrix[i].begin(), matrix[i].end());
         }
+
+        // Copy the rotated elements back to the original matrix
+        matrix = ans;
     }
 };
