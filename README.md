@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sunny9507/dsa/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Sunny9507/dsa/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Sunny9507/dsa/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sunny9507/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sunny9507/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sunny9507/dsa/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunny9507/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sunny9507/dsa/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sunny9507/dsa/tree/master/0075-sort-colors) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sunny9507/dsa/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sunny9507/dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sunny9507/dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sunny9507/dsa/tree/master/0075-sort-colors) |
