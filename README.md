@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Sunny9507/dsa/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Sunny9507/dsa/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Sunny9507/dsa/tree/master/0139-word-break) |
+| [0306-additive-number](https://github.com/Sunny9507/dsa/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/Sunny9507/dsa/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sunny9507/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/Sunny9507/dsa/tree/master/0696-count-binary-substrings) |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0046-permutations](https://github.com/Sunny9507/dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sunny9507/dsa/tree/master/0078-subsets) |
+| [0306-additive-number](https://github.com/Sunny9507/dsa/tree/master/0306-additive-number) |
 ## Stack
 |  |
 | ------- |
