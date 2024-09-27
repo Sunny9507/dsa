@@ -3,19 +3,24 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         sort(intervals.begin(), intervals.end());
 
-        vector<vector<int>> merged;
-        for (auto interval : intervals) {
-            // if the list of merged intervals is empty or if the current
-            // interval does not overlap with the previous, simply append it.
-            if (merged.empty() || merged.back()[1] < interval[0]) {
-                merged.push_back(interval);
+        vector<vector<int>> ans;
+
+        for(int i=0; i<intervals.size(); i++){
+            int start = intervals[i][0];
+            int end = intervals[i][1];
+            if(!ans.empty() && end <= ans.back()[1]) {
+                continue;
             }
-            // otherwise, there is overlap, so we merge the current and previous
-            // intervals.
-            else {
-                merged.back()[1] = max(merged.back()[1], interval[1]);
+            for(int j=i+1; j<intervals.size(); j++){
+                if(intervals[j][0] <=  end){
+                    end = max(end, intervals[j][1]);
+                }
+                else{
+                    break;
+                }
             }
+            ans.push_back({start, end});
         }
-        return merged;
+        return ans;
     }
 };
