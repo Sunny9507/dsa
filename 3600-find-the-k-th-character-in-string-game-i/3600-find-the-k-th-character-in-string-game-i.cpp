@@ -1,20 +1,17 @@
 class Solution {
 public:
     char kthCharacter(int k) {
-        string a = "a";
-        for(int i=0; i<=10; i++){
-            int n = a.size();
-            for(int j=0; j<n; j++){
-                int ind = a[j] - 'a';
-                ind++;
-                ind %= 26;
-                char ch = 'a' + ind;
-                a.push_back(ch);
-                if(a.size() == k){
-                    return ch;
-                }
+        string s="a";
+        while(s.length()<k){
+            string temp="";
+            for(char c : s){
+                if(c=='z') temp.push_back('a');
+                temp.push_back(c+1);
             }
+            s+=temp;
         }
-        return 'a';
+
+        return s[k-1];
     }
+    
 };
