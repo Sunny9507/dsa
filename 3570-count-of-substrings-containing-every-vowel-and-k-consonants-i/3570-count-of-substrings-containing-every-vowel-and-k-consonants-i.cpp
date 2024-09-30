@@ -1,22 +1,28 @@
 class Solution {
-    public:
-int countOfSubstrings(string s, int k) {
-    int ans = 0;
-
-    for(int i=0;i<s.size();i++){
-        int a=0, e=0, m=0, o=0,u=0,c=0; 
-        for(int j=i;j<s.size();j++){
-            if(s[j]=='a') a++;
-            else if(s[j]=='e') e++;
-            else if(s[j]=='i') m++;
-            else if(s[j]=='o') o++;
-            else if(s[j]=='u') u++;
-            else c++;  
-
-            if(a and e and m and o and u and c==k) ans++;
+public:
+    int countOfSubstrings(string word, int k) {
+        int l=0,cnt=0;
+        while(l<word.size()){
+            unordered_set<char> st1;
+            vector<char> st2;
+            int ll = l;
+            while(ll<word.size()){
+                if(word[ll]=='a' || word[ll]=='e' || word[ll]=='i' || word[ll]=='o' || word[ll]=='u'){
+                    st1.insert(word[ll]);
+                }
+                else{
+                    st2.push_back(word[ll]);
+                }
+                ll++;
+                if(st1.size()==5 && st2.size()==k){
+                    cnt+=1;
+                }
+                else if(st2.size()>k){
+                    break;
+                }
+            }
+            l++;
         }
+        return cnt;
     }
-        
-    return ans;
-}
 };
