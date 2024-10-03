@@ -1,18 +1,16 @@
 class Solution {
- public:
-  vector<int> arrayRankTransform(vector<int>& arr) {
-    vector<int> sortedArr(arr);
-    unordered_map<int, int> rank;
+public:
+    vector<int> arrayRankTransform(vector<int>& arr) 
+    {
+        set<int>st(begin(arr), end(arr));
 
-    ranges::sort(sortedArr);
+        int rankNumber = 1;
+        unordered_map<int, int>rank;
+        for(auto val:st)
+            rank[val] = rankNumber++;
 
-    for (const int a : sortedArr)
-      if (!rank.contains(a))
-        rank[a] = rank.size() + 1;
-
-    for (int& a : arr)
-      a = rank[a];
-
-    return arr;
-  }
+        for(auto &val:arr)
+            val = rank[val];
+        return arr;
+    }
 };
