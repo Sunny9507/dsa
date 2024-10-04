@@ -1,23 +1,25 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), intervals.end());
 
-        vector<vector<int>> ans;
+        sort(intervals.begin(), intervals.end(), [](const vector<int>& a, const vector<int>& b) {
+            return a[0] < b[0];
+        });
 
-        for(int i=0; i<intervals.size(); i++){
+        vector<vector<int>> merged;
+        vector<int> prev = intervals[0];
 
-// [[1,3],[2,6],[8,10],[15,18]] back [1][6]
-        // 8 > 6
-//  push [8][10]
-            if(ans.empty() || intervals[i][0] > ans.back()[1]) {
-                ans.push_back(intervals[i]);
+        for (int i = 1; i < intervals.size(); ++i) {
+            vector<int> interval = intervals[i];
+            if (interval[0] <= prev[1]) {
+                prev[1] = max(prev[1], interval[1]);
+            } else {
+                merged.push_back(prev);
+                prev = interval;
             }
-            else{
-                //  [1,3],[2,6] replace 3 with 6
-                ans.back()[1] = max(ans.back()[1], intervals[i][1]);
-            }        
         }
-        return ans;
+
+        merged.push_back(prev);
+        return merged;        
     }
 };
