@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2737-row-with-maximum-ones](https://github.com/Sunny9507/dsa/tree/master/2737-row-with-maximum-ones) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Sunny9507/dsa/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sunny9507/dsa/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sunny9507/dsa/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/Sunny9507/dsa/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sunny9507/dsa/tree/master/1013-fibonacci-number) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sunny9507/dsa/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sunny9507/dsa/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
