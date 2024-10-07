@@ -1,24 +1,20 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        int n = nums.size();
-        int first= -1, last = -1; 
-
-        
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == target) {
-                if(first == -1){
-                    first = i;
-                }
-                last = i;
+        int ans = -1;
+        for(int i=0; i<nums.size(); i++){
+            if(nums[i] == target){
+                ans =  i;
+                break;
             }
         }
-
-        if (first == -1) {
-            return {-1, -1};
+        int a = -1;
+        for(int i=nums.size()-1; i>=0; i--){
+            if(nums[i] == target){
+                a = i;
+                break;
+            }
         }
-
-
-        return {first, last}; 
+        return {ans, a};
     }
 };
