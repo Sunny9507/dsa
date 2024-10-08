@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Sunny9507/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sunny9507/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sunny9507/dsa/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sunny9507/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sunny9507/dsa/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sunny9507/dsa/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sunny9507/dsa/tree/master/0120-triangle) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Sunny9507/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sunny9507/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sunny9507/dsa/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sunny9507/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunny9507/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sunny9507/dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sunny9507/dsa/tree/master/0287-find-the-duplicate-number) |
