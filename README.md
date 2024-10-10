@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Sunny9507/dsa/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Sunny9507/dsa/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/Sunny9507/dsa/tree/master/0909-stone-game) |
+| [1002-maximum-width-ramp](https://github.com/Sunny9507/dsa/tree/master/1002-maximum-width-ramp) |
 | [1217-relative-sort-array](https://github.com/Sunny9507/dsa/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sunny9507/dsa/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sunny9507/dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sunny9507/dsa/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sunny9507/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Sunny9507/dsa/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sunny9507/dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sunny9507/dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sunny9507/dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -538,4 +540,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sunny9507/dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Sunny9507/dsa/tree/master/0493-reverse-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Sunny9507/dsa/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
