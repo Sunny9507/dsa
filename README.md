@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sunny9507/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sunny9507/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sunny9507/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0792-binary-search](https://github.com/Sunny9507/dsa/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Sunny9507/dsa/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/Sunny9507/dsa/tree/master/0909-stone-game) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sunny9507/dsa/tree/master/0045-jump-game-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sunny9507/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sunny9507/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Sunny9507/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sunny9507/dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sunny9507/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sunny9507/dsa/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sunny9507/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0807-custom-sort-string](https://github.com/Sunny9507/dsa/tree/master/0807-custom-sort-string) |
 | [1217-relative-sort-array](https://github.com/Sunny9507/dsa/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sunny9507/dsa/tree/master/1256-rank-transform-of-an-array) |
@@ -334,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sunny9507/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Sunny9507/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sunny9507/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0807-custom-sort-string](https://github.com/Sunny9507/dsa/tree/master/0807-custom-sort-string) |
 | [1217-relative-sort-array](https://github.com/Sunny9507/dsa/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sunny9507/dsa/tree/master/1256-rank-transform-of-an-array) |
@@ -411,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sunny9507/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Sunny9507/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sunny9507/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sunny9507/dsa/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sunny9507/dsa/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunny9507/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -435,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunny9507/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Sunny9507/dsa/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sunny9507/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Sunny9507/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
