@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/Sunny9507/dsa/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sunny9507/dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Sunny9507/dsa/tree/master/1508-longest-happy-prefix) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sunny9507/dsa/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Sunny9507/dsa/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/Sunny9507/dsa/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sunny9507/dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Sunny9507/dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sunny9507/dsa/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/Sunny9507/dsa/tree/master/0898-transpose-matrix) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sunny9507/dsa/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sunny9507/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sunny9507/dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Backtracking
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/Sunny9507/dsa/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Sunny9507/dsa/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sunny9507/dsa/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Enumeration
 |  |
 | ------- |
