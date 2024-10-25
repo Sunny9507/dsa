@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/Sunny9507/dsa/tree/master/1002-maximum-width-ramp) |
 | [1217-relative-sort-array](https://github.com/Sunny9507/dsa/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sunny9507/dsa/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sunny9507/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sunny9507/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sunny9507/dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1656-count-good-triplets](https://github.com/Sunny9507/dsa/tree/master/1656-count-good-triplets) |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sunny9507/dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Sunny9507/dsa/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Sunny9507/dsa/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sunny9507/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sunny9507/dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Sunny9507/dsa/tree/master/1508-longest-happy-prefix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sunny9507/dsa/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sunny9507/dsa/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Sunny9507/dsa/tree/master/0139-word-break) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sunny9507/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Memoization
 |  |
 | ------- |
@@ -619,5 +622,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sunny9507/dsa/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sunny9507/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sunny9507/dsa/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
