@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunny9507/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sunny9507/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sunny9507/dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sunny9507/dsa/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sunny9507/dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2737-row-with-maximum-ones](https://github.com/Sunny9507/dsa/tree/master/2737-row-with-maximum-ones) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Sunny9507/dsa/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sunny9507/dsa/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sunny9507/dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sunny9507/dsa/tree/master/1628-count-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sunny9507/dsa/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sunny9507/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Sunny9507/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sunny9507/dsa/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sunny9507/dsa/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -341,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sunny9507/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sunny9507/dsa/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sunny9507/dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sunny9507/dsa/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sunny9507/dsa/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
 |  |
@@ -371,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sunny9507/dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunny9507/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sunny9507/dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sunny9507/dsa/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sunny9507/dsa/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Sunny9507/dsa/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Math
