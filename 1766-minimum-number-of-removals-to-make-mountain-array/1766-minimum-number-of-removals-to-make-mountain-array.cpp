@@ -1,34 +1,36 @@
-// Time Complexity:    O(N*logN)
-// Space Complexity:   O(N)
 class Solution {
 public:
     int minimumMountainRemovals(vector<int>& nums) {
         int n = nums.size();
-        int minRemoval = n;
-        vector<int> LIS(n);
-        vector<int> LDS(n);
-        vector<int> temp;
-        for (int i = 0; i < n; i++) {
-            auto lb = lower_bound(temp.begin(), temp.end(), nums[i]);
-            LIS[i] = lb - temp.begin() + 1;
-            if (lb == temp.end())
-                temp.push_back(nums[i]);
-            else
-                *lb = nums[i];
+        vector<int> LIS(n, 1), LDS(n, 1);
+
+        // Compute LIS up to each index
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < i; ++j) {
+                if (nums[i] > nums[j]) {
+                    LIS[i] = max(LIS[i], LIS[j] + 1);
+                }
+            }
         }
-        temp.clear();
-        for (int i = n - 1; i >= 0; i--) {
-            auto lb = lower_bound(temp.begin(), temp.end(), nums[i]);
-            LDS[i] = lb - temp.begin() + 1;
-            if (lb == temp.end())
-                temp.push_back(nums[i]);
-            else
-                *lb = nums[i];
+
+        // Compute LDS from each index
+        for (int i = n - 1; i >= 0; --i) {
+            for (int j = n - 1; j > i; --j) {
+                if (nums[i] > nums[j]) {
+                    LDS[i] = max(LDS[i], LDS[j] + 1);
+                }
+            }
         }
-        for (int i = 0; i < n; i++) {
-            if (LIS[i] > 1 && LDS[i] > 1) //  length of mountain arr should be >= 3
-                minRemoval = min(minRemoval, n - (LIS[i] + LDS[i] - 1));
+
+        int maxMountainLength = 0;
+
+        // Find the maximum mountain length
+        for (int i = 1; i < n - 1; ++i) {
+            if (LIS[i] > 1 && LDS[i] > 1) {  // Valid peak
+                maxMountainLength = max(maxMountainLength, LIS[i] + LDS[i] - 1);
+            }
         }
-        return minRemoval;
+
+        return n - maxMountainLength;
     }
 };
