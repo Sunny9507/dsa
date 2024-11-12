@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sunny9507/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sunny9507/dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sunny9507/dsa/tree/master/1628-count-submatrices-with-all-ones) |
+| [1646-kth-missing-positive-number](https://github.com/Sunny9507/dsa/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Sunny9507/dsa/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sunny9507/dsa/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sunny9507/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sunny9507/dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sunny9507/dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sunny9507/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Sunny9507/dsa/tree/master/1646-kth-missing-positive-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sunny9507/dsa/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Sunny9507/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sunny9507/dsa/tree/master/2210-find-target-indices-after-sorting-array) |
