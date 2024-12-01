@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sunny9507/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sunny9507/dsa/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sunny9507/dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sunny9507/dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sunny9507/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sunny9507/dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sunny9507/dsa/tree/master/1628-count-submatrices-with-all-ones) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sunny9507/dsa/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Sunny9507/dsa/tree/master/0696-count-binary-substrings) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sunny9507/dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sunny9507/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Sunny9507/dsa/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sunny9507/dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunny9507/dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sunny9507/dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sunny9507/dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sunny9507/dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sunny9507/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sunny9507/dsa/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sunny9507/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -383,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sunny9507/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/Sunny9507/dsa/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sunny9507/dsa/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sunny9507/dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sunny9507/dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sunny9507/dsa/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sunny9507/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -415,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-custom-sort-string](https://github.com/Sunny9507/dsa/tree/master/0807-custom-sort-string) |
 | [1217-relative-sort-array](https://github.com/Sunny9507/dsa/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sunny9507/dsa/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sunny9507/dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sunny9507/dsa/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Sunny9507/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sunny9507/dsa/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
