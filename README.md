@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sunny9507/dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sunny9507/dsa/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sunny9507/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sunny9507/dsa/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Sunny9507/dsa/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sunny9507/dsa/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sunny9507/dsa/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sunny9507/dsa/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sorting
 |  |
 | ------- |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sunny9507/dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Sunny9507/dsa/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Sunny9507/dsa/tree/master/3195-separate-black-and-white-balls) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sunny9507/dsa/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/Sunny9507/dsa/tree/master/3451-string-compression-iii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sunny9507/dsa/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Divide and Conquer
@@ -545,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Sunny9507/dsa/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sunny9507/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sunny9507/dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sunny9507/dsa/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -555,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/Sunny9507/dsa/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Sunny9507/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sunny9507/dsa/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sunny9507/dsa/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sunny9507/dsa/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sunny9507/dsa/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
