@@ -692,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Sunny9507/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Sunny9507/dsa/tree/master/0787-sliding-puzzle) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sunny9507/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sunny9507/dsa/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -739,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Sunny9507/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sunny9507/dsa/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sunny9507/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sunny9507/dsa/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -747,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Sunny9507/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sunny9507/dsa/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sunny9507/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sunny9507/dsa/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -755,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Sunny9507/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sunny9507/dsa/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sunny9507/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Sunny9507/dsa/tree/master/2201-valid-arrangement-of-pairs) |
