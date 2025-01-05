@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sunny9507/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sunny9507/dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sunny9507/dsa/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Sunny9507/dsa/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunny9507/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sunny9507/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Sunny9507/dsa/tree/master/2554-minimum-total-distance-traveled) |
@@ -514,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/Sunny9507/dsa/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sunny9507/dsa/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sunny9507/dsa/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/Sunny9507/dsa/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Sunny9507/dsa/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sunny9507/dsa/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sunny9507/dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -593,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/Sunny9507/dsa/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Sunny9507/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sunny9507/dsa/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Sunny9507/dsa/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunny9507/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String Matching
 |  |
