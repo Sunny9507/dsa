@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/Sunny9507/dsa/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Sunny9507/dsa/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunny9507/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Sunny9507/dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sunny9507/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Sunny9507/dsa/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sunny9507/dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sunny9507/dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sunny9507/dsa/tree/master/0287-find-the-duplicate-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sunny9507/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Sunny9507/dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sunny9507/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sunny9507/dsa/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sunny9507/dsa/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -820,4 +822,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Sunny9507/dsa/tree/master/2201-valid-arrangement-of-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Sunny9507/dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
