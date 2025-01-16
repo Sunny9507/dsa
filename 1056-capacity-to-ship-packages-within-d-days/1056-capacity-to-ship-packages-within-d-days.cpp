@@ -1,56 +1,32 @@
 class Solution {
 public:
-    vector<int> a;
-    int n;
-    int d;
-    
-    // Check if it is possible to ship within 'd' days with the given capacity 'cap'
-    bool possible(int cap) {
-        int wt = 0;
-        int day = 1; // Start with day 1 (at least 1 day is required)
-        
-        for (int i = 0; i < n; i++) {
-            if (a[i] > cap) {
-                return false; // If any package exceeds the capacity, it's not possible
+    int findDays(vector<int>& weights, int cap) {
+        int days = 1, load = 0;
+        for(int i = 0; i < weights.size(); i++) {
+            if(weights[i] + load > cap) {
+                days += 1; // Need another day
+                load = weights[i]; // Start new load with current weight
+            } else {
+                load += weights[i]; // Add current weight to load
             }
-            
-            if (wt + a[i] > cap) {
-                day++;  // Need an extra day
-                wt = 0;
-            }
-            
-            wt += a[i];
         }
-        
-        return (day <= d);  // Return true if within the day limit
+        return days; // Return total number of days needed
     }
 
-    int shipWithinDays(vector<int>& wt, int days) {
-        d = days;
-        a = wt;
-        n = wt.size();
-        
-        int sum = 0;
-        int maxWt = 0;
-        for (int it : wt) {
-            sum += it;
-            maxWt = max(maxWt, it);
-        }
+    int shipWithinDays(vector<int>& weights, int d) {
+        int l = *max_element(weights.begin(), weights.end());
+        int h = accumulate(weights.begin(), weights.end(), 0);
 
-        // Lower bound is the heaviest package, upper bound is the total weight sum
-        int l = maxWt;
-        int r = sum;
-        
-        while (l < r) {
-            int mid = l + (r - l) / 2;
-            
-            if (possible(mid)) {
-                r = mid; // Try to minimize capacity
+        while(l < h) { // Use < instead of <= for binary search
+            int mid = l + (h - l) / 2; // Avoid overflow
+
+            int NoOfDays = findDays(weights, mid);
+            if(NoOfDays <= d) {
+                h = mid; // Try for a smaller capacity
             } else {
-                l = mid + 1;
+                l = mid + 1; // Increase capacity
             }
         }
-        
-        return l;
+        return l; // Minimum capacity that allows shipping within d days
     }
 };
