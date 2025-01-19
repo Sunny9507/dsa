@@ -1,37 +1,40 @@
 class Solution {
 public:
-    int splitArray(vector<int>& nums, int k) {
-       int low = *max_element(nums.begin(), nums.end());
-       int high = accumulate(nums.begin(), nums.end(), 0);
-
-       int ans = low;
-       while(low <= high){
-        int mid = (low+high)/2;
-
-        int n = no_of_subarrays_with_max_sum_as_mid(nums, mid);
-        if(n > k){
-            low = mid+1;
-        }
-        else{
-            ans = mid; //minimize ans
-            high = mid-1;
-        }
-       }
-       return ans;
-    }
-    int no_of_subarrays_with_max_sum_as_mid(vector<int>& nums, int mid){
-        int sum = 0;
-        int cnt = 1;
+    bool isValid(vector<int>& nums, int k, int maxAllow){
+        int first = 1, spplit = 0;
 
         for(int i=0; i<nums.size(); i++){
-            if(sum + nums[i] > mid){
-                sum = nums[i];
-                cnt++;
+           
+            if(spplit + nums[i] <= maxAllow){
+                spplit += nums[i];
             }
             else{
-                sum += nums[i];
+                first++;
+                spplit  = nums[i];
             }
         }
-        return cnt;
+        return first <= k;
+    }
+
+    int splitArray(vector<int>& nums, int k) {
+        int l = *max_element(nums.begin(), nums.end()),
+            h = accumulate(nums.begin(), nums.end(), 0);
+
+        int ans = -1;
+        while(l <= h){
+            int mid = (l + h)/2;
+             
+            if(isValid(nums, k, mid)){
+                ans = mid;
+                h = mid - 1;
+            }
+            else{
+                l = mid + 1;
+            }
+        }
+        return ans;
     }
 };
+
+
+
