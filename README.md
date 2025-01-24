@@ -748,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sunny9507/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Sunny9507/dsa/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/Sunny9507/dsa/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Sunny9507/dsa/tree/master/1396-count-servers-that-communicate) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sunny9507/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sunny9507/dsa/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -814,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sunny9507/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/Sunny9507/dsa/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sunny9507/dsa/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sunny9507/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Sunny9507/dsa/tree/master/1396-count-servers-that-communicate) |
@@ -833,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Sunny9507/dsa/tree/master/0820-find-eventual-safe-states) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Sunny9507/dsa/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sunny9507/dsa/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -848,4 +851,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sunny9507/dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Sunny9507/dsa/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
