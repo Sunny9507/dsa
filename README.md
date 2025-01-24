@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sunny9507/dsa/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sunny9507/dsa/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Sunny9507/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/Sunny9507/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Sunny9507/dsa/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sunny9507/dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sunny9507/dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/Sunny9507/dsa/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/Sunny9507/dsa/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sunny9507/dsa/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Sunny9507/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sunny9507/dsa/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sunny9507/dsa/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sunny9507/dsa/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Sunny9507/dsa/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sunny9507/dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Sunny9507/dsa/tree/master/1923-sentence-similarity-iii) |
+| [2032-largest-odd-number-in-string](https://github.com/Sunny9507/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sunny9507/dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sunny9507/dsa/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sunny9507/dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
