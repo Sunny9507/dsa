@@ -828,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sunny9507/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Sunny9507/dsa/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Sunny9507/dsa/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sunny9507/dsa/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sunny9507/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sunny9507/dsa/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Queue
@@ -845,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Sunny9507/dsa/tree/master/0820-find-eventual-safe-states) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Sunny9507/dsa/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sunny9507/dsa/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sunny9507/dsa/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
@@ -863,4 +865,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Sunny9507/dsa/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sunny9507/dsa/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
