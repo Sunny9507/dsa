@@ -1,25 +1,19 @@
 class Solution {
 public:
-    std::string frequencySort(std::string s) {
-        std::unordered_map<char, int> frequencyMap;
-        for (char c : s) {
-            frequencyMap[c]++;
+    string frequencySort(string s) {
+        vector<int> freq(128, 0);
+
+        for(auto x : s){
+            freq[x]++;
         }
 
-        // Step 2: Create a vector of pairs to sort by frequency
-        std::vector<std::pair<char, int>> freqVec(frequencyMap.begin(), frequencyMap.end());
+        auto cmp = [&](char a, char b){
+            if(freq[a] == freq[b]) return a < b;
+            return freq[a] > freq[b];
+        };
 
-        // Sort the vector based on frequency in decreasing order
-        std::sort(freqVec.begin(), freqVec.end(), [](const std::pair<char, int>& a, const std::pair<char, int>& b) {
-            return a.second > b.second; // Sort by frequency
-        });
+        sort(begin(s), end(s), cmp);
 
-        // Step 3: Build the result string
-        std::string result;
-        for (const auto& pair : freqVec) {
-            result += std::string(pair.second, pair.first); // Append character 'pair.first' 'pair.second' times
-        }
-
-        return result;
+        return s;
     }
 };
