@@ -1,9 +1,22 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        sort(begin(s), end(s));
-        sort(begin(t), end(t));
+        unordered_map<char, int>cnt;
 
-        return s == t;
+        for(auto x : s){
+            cnt[x]++;
+        }
+
+        for(auto x : t){
+            cnt[x]--;
+        }
+
+        for(auto x : cnt){
+            if(x.second != 0){
+                return false;
+            }
+        }
+
+        return true;
     }
 };
