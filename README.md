@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sunny9507/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/Sunny9507/dsa/tree/master/2737-row-with-maximum-ones) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sunny9507/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Sunny9507/dsa/tree/master/2868-continuous-subarrays) |
@@ -605,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sunny9507/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/Sunny9507/dsa/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sunny9507/dsa/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |
@@ -675,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sunny9507/dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/Sunny9507/dsa/tree/master/2737-row-with-maximum-ones) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
@@ -772,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sunny9507/dsa/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sunny9507/dsa/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sunny9507/dsa/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sunny9507/dsa/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Bitmask
@@ -841,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sunny9507/dsa/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sunny9507/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sunny9507/dsa/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Queue
 |  |
 | ------- |
