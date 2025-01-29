@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sunny9507/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Sunny9507/dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sunny9507/dsa/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Sunny9507/dsa/tree/master/0072-edit-distance) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sunny9507/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Sunny9507/dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sunny9507/dsa/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sunny9507/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -507,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sunny9507/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Sunny9507/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Sunny9507/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sunny9507/dsa/tree/master/0013-roman-to-integer) |
