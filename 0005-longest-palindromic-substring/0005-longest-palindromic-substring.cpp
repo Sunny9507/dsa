@@ -1,27 +1,32 @@
-#include <string>
-using namespace std;
-
 class Solution {
 public:
-    string longestPalindrome(string s) {
-        int start = 0, end = 0;
-        for (int i = 0; i < s.length(); i++) {
-            int len1 = expandAroundCenter(s, i, i);
-            int len2 = expandAroundCenter(s, i, i + 1);
-            int len = max(len1, len2);
-            if (len > end - start) {
-                start = i - (len - 1) / 2;
-                end = i + len / 2;
-            }
-        }
-        return s.substr(start, end - start + 1);
-    }
+    string expand(int i, int j, string s) {
+        int left = i;
+        int right = j;
 
-    int expandAroundCenter(string s, int left, int right) {
-        while (left >= 0 && right < s.length() && s[left] == s[right]) {
+        while (left >= 0 && right < s.size() && s[left] == s[right]) {
             left--;
             right++;
         }
-        return right - left - 1;
+
+        return s.substr(left + 1, right - left - 1);
+    }
+
+    string longestPalindrome(string s) {
+        string ans = "";
+
+        for (int i = 0; i < s.size(); i++) {
+            string odd = expand(i, i, s);
+            if (odd.size() > ans.size()) {
+                ans = odd;
+            }
+
+            string even = expand(i, i + 1, s);
+            if (even.size() > ans.size()) {
+                ans = even;
+            }
+        }
+
+        return ans;
     }
 };
