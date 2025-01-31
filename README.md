@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sunny9507/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0787-sliding-puzzle](https://github.com/Sunny9507/dsa/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Sunny9507/dsa/tree/master/0792-binary-search) |
+| [0854-making-a-large-island](https://github.com/Sunny9507/dsa/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunny9507/dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/Sunny9507/dsa/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Sunny9507/dsa/tree/master/0907-koko-eating-bananas) |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sunny9507/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Sunny9507/dsa/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Sunny9507/dsa/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Sunny9507/dsa/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Sunny9507/dsa/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sunny9507/dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -674,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Sunny9507/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sunny9507/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0787-sliding-puzzle](https://github.com/Sunny9507/dsa/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Sunny9507/dsa/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Sunny9507/dsa/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sunny9507/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Sunny9507/dsa/tree/master/1396-count-servers-that-communicate) |
@@ -777,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Sunny9507/dsa/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Sunny9507/dsa/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Sunny9507/dsa/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Sunny9507/dsa/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Sunny9507/dsa/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Sunny9507/dsa/tree/master/1558-course-schedule-iv) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sunny9507/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -848,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sunny9507/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Sunny9507/dsa/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Sunny9507/dsa/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Sunny9507/dsa/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sunny9507/dsa/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sunny9507/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Sunny9507/dsa/tree/master/1396-count-servers-that-communicate) |
