@@ -8,7 +8,7 @@ public:
                 cnt++;
             }
         }
-        if(cnt > 1) return false;
-        return true;
+        
+        return (cnt <= 1);
     }
 };
