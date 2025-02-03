@@ -904,4 +904,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/Sunny9507/dsa/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Sunny9507/dsa/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sunny9507/dsa/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Sunny9507/dsa/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
