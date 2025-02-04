@@ -763,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sunny9507/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Sunny9507/dsa/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Sunny9507/dsa/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Sunny9507/dsa/tree/master/1197-parsing-a-boolean-expression) |
@@ -907,5 +908,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sunny9507/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sunny9507/dsa/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
