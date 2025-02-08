@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sunny9507/dsa/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sunny9507/dsa/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sunny9507/dsa/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/Sunny9507/dsa/tree/master/2434-design-a-number-container-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sunny9507/dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sunny9507/dsa/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sunny9507/dsa/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -608,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sunny9507/dsa/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sunny9507/dsa/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sunny9507/dsa/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/Sunny9507/dsa/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunny9507/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sunny9507/dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sunny9507/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -833,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sunny9507/dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Sunny9507/dsa/tree/master/0493-reverse-pairs) |
+| [2434-design-a-number-container-system](https://github.com/Sunny9507/dsa/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Sunny9507/dsa/tree/master/2868-continuous-subarrays) |
 ## Monotonic Stack
 |  |
@@ -927,4 +930,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Sunny9507/dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sunny9507/dsa/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sunny9507/dsa/tree/master/0237-delete-node-in-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Sunny9507/dsa/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
