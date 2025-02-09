@@ -11,22 +11,13 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        int cnt = 0;
-        // Count total number of nodes
-        ListNode* temp = head;
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        while(temp){
-            cnt++;
-            temp = temp->next;
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-
-        cnt/=2;
-
-        // This number of step I have to take from start
-        temp = head;
-        while(cnt--)
-            temp = temp->next;
-
-        return temp;
+        return slow;
     }
 };
