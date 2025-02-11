@@ -9,26 +9,22 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        if(head == NULL || head->next == NULL) return NULL;
-
         ListNode* slow = head, *fast = head;
 
-        while(fast && fast->next){
+        while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
 
-            if(slow == fast) break;
+            if (slow == fast) { // Cycle detected
+                ListNode* entry = head; // New pointer at head
+                while (entry != slow) { // Find start of cycle
+                    entry = entry->next;
+                    slow = slow->next;
+                }
+                return entry; // Start of cycle
+            }
         }
 
-        if(slow != fast) return NULL;
-
-        ListNode* curr = head;
-
-        while(curr != slow){
-            curr = curr->next;
-            slow = slow->next;
-        }
-
-        return curr;
+        return NULL; // No cycle
     }
 };
