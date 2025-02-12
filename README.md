@@ -601,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sunny9507/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sunny9507/dsa/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sunny9507/dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Sunny9507/dsa/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Sunny9507/dsa/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0215-kth-largest-element-in-an-array) |
@@ -868,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sunny9507/dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sunny9507/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sunny9507/dsa/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sunny9507/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -877,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sunny9507/dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sunny9507/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sunny9507/dsa/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sunny9507/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -945,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Sunny9507/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Sunny9507/dsa/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sunny9507/dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sunny9507/dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Sunny9507/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sunny9507/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Sunny9507/dsa/tree/master/0203-remove-linked-list-elements) |
@@ -966,4 +970,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Sunny9507/dsa/tree/master/0382-linked-list-random-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sunny9507/dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
