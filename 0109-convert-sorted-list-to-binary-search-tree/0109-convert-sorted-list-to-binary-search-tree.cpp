@@ -21,28 +21,29 @@
  */
 class Solution {
 public:
-    ListNode* find_middle(ListNode* head, ListNode* tail) {
-        if (!head)
-            return nullptr;
-        ListNode *slow = head, *fast = head;
-        while (fast != tail && fast->next != tail) {
+    TreeNode* sortedListToBST(ListNode* head) {
+        if(!head) return NULL;
+        if(!head->next) return new TreeNode(head->val);
+
+        ListNode* prev_slow = NULL;
+        ListNode* fast = head;
+        ListNode* slow = head;
+
+        while(fast && fast->next){
+            prev_slow = slow;
             slow = slow->next;
             fast = fast->next->next;
-        }
-        return slow;
-    }
-    TreeNode* helper(ListNode* head, ListNode* tail) {
-        if (head == tail)
-            return nullptr;
-        ListNode* middle = find_middle(head, tail);
-        TreeNode* root = new TreeNode(middle->val);
-        root->left = helper(head, middle);
-        root->right = helper(middle->next, tail);
+        } 
+
+        // Slow pakka mid ko point kar raha hoga
+
+        TreeNode* root = new TreeNode(slow->val);
+
+        prev_slow->next = NULL;
+
+        root->left = sortedListToBST(head);
+        root->right = sortedListToBST(slow->next);
+
         return root;
-    }
-    TreeNode* sortedListToBST(ListNode* head) {
-        if (!head)
-            return nullptr;
-        return helper(head, nullptr);
     }
 };
