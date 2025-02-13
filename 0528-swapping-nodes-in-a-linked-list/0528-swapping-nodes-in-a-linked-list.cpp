@@ -11,32 +11,22 @@
 class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
+        ListNode* p1 = NULL;
+        ListNode* p2 = NULL;
+
         ListNode* temp = head;
-        int cnt = 0;
-
-        // Step 1: Count total nodes
-        while (temp) {
-            cnt++;
+        while(temp){
+            if(p2 != NULL){
+                p2 = p2->next;
+            }
+            k--;
+            if(k == 0){
+                p1 = temp;
+                p2 = head;
+            }
             temp = temp->next;
         }
-
-        // Step 2: Find k-th node from the start
-        temp = head;
-        ListNode* first = nullptr;
-        for (int i = 1; i < k; i++) {
-            temp = temp->next;
-        }
-        first = temp;
-
-        // Step 3: Find k-th node from the end (cnt - k + 1)
-        temp = head;
-        for (int i = 1; i < (cnt - k + 1); i++) {
-            temp = temp->next;
-        }
-        ListNode* second = temp;
-
-        // Step 4: Swap values
-        swap(first->val, second->val);
+        swap(p1->val, p2->val);
 
         return head;
     }
