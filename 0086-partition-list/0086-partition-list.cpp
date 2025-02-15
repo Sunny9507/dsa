@@ -11,35 +11,27 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        vector<int> v1, v2, v3;
-        ListNode* temp = head;
-        while(temp){
-            if(temp->val < x){
-                v1.push_back(temp->val);
+        ListNode* small = new ListNode(0);
+        ListNode* large = new ListNode(0);
+
+        ListNode* smallP = small;
+        ListNode* largeP = large;
+
+        while(head){
+            if(head->val < x){
+                smallP->next = head;
+                smallP = smallP->next; 
             }
             else{
-                v2.push_back(temp->val);
+                largeP->next = head;
+                largeP = largeP->next;
             }
-            temp = temp->next;
-        }
-        int i=0;
-        while(i<v1.size()){
-            v3.push_back(v1[i]);
-            i++;
-        }
-        i=0;
-        while(i<v2.size()){
-            v3.push_back(v2[i]);
-            i++;
+            head = head->next;
         }
 
-        ListNode* dummy = new ListNode(0);
-        ListNode* tail = dummy;
+        smallP->next = large->next;
+        largeP->next = NULL;
 
-        for(int i = 0; i < v3.size(); i++){
-            tail->next = new ListNode(v3[i]);
-            tail = tail->next;
-        }
-        return dummy->next;
+        return small->next;
     }
 };
