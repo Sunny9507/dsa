@@ -533,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/Sunny9507/dsa/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sunny9507/dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Sunny9507/dsa/tree/master/2032-largest-odd-number-in-string) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Sunny9507/dsa/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sunny9507/dsa/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sunny9507/dsa/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sunny9507/dsa/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0306-additive-number](https://github.com/Sunny9507/dsa/tree/master/0306-additive-number) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sunny9507/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sunny9507/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Sunny9507/dsa/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
 |  |
 | ------- |
