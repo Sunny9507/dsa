@@ -7,8 +7,8 @@ public:
 
         ListNode* gcdNode = new ListNode(__gcd(head->val, head->next->val));
 
-        gcdNode->next = temp;
         head->next = gcdNode;
+        gcdNode->next = temp;
 
         return head;
     }
