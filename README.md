@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Sunny9507/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sunny9507/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Sunny9507/dsa/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Sunny9507/dsa/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sunny9507/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Sunny9507/dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sunny9507/dsa/tree/master/0283-move-zeroes) |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Sunny9507/dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sunny9507/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sunny9507/dsa/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Sunny9507/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sunny9507/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sunny9507/dsa/tree/master/0217-contains-duplicate) |
@@ -628,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/Sunny9507/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Sunny9507/dsa/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sunny9507/dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Sunny9507/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sunny9507/dsa/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Sunny9507/dsa/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0215-kth-largest-element-in-an-array) |
@@ -896,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sunny9507/dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Sunny9507/dsa/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sunny9507/dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Sunny9507/dsa/tree/master/0493-reverse-pairs) |
 ## Ordered Set
@@ -1012,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Sunny9507/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sunny9507/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Sunny9507/dsa/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Sunny9507/dsa/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Sunny9507/dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sunny9507/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sunny9507/dsa/tree/master/0234-palindrome-linked-list) |
