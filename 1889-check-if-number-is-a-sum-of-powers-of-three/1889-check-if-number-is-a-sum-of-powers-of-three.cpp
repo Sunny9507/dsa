@@ -1,14 +1,22 @@
 class Solution {
 public:
-    bool checkPowersOfThree(int n) {
-        while(n > 0) {
-            if(n%3 == 2) {
-                return false;
-            }
-
-            n = n/3;
+    int solve(int n, int p) {
+        if(n == 0) {
+            return true;
         }
 
-        return true;
+        if(pow(3, p) > n) {
+            return false;
+        }
+
+        bool p_ko_lelo = solve(n - pow(3, p), p+1);
+
+        bool p_ko_nahi_lo = solve(n, p+1);
+
+        return p_ko_lelo || p_ko_nahi_lo;
+    }
+
+    bool checkPowersOfThree(int n) {
+        return solve(n, 0);
     }
 };
