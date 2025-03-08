@@ -630,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/Sunny9507/dsa/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sunny9507/dsa/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sunny9507/dsa/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sunny9507/dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Sunny9507/dsa/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Sunny9507/dsa/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sunny9507/dsa/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -718,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunny9507/dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Sunny9507/dsa/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Sunny9507/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sunny9507/dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sunny9507/dsa/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Sunny9507/dsa/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sunny9507/dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
