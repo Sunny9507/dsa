@@ -1,27 +1,32 @@
 class Solution {
 public:
-    bool canRob(vector<int>& nums, int mid, int k) {
-        int count = 0, n = nums.size();
-        for (int i = 0; i < n; i++) {
-            if (nums[i] <= mid) {
+    bool canStealKHouses(const vector<int>& nums, int k, int capability) {
+        int count = 0;
+        int i = 0;
+        while (i < nums.size()) {
+            if (nums[i] <= capability) {
                 count++;
+                i += 2; 
+            } else {
                 i++;
             }
         }
         return count >= k;
     }
-
+    
     int minCapability(vector<int>& nums, int k) {
-        int left = 1, right = *max_element(nums.begin(), nums.end()), ans = right;
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            if (canRob(nums, mid, k)) {
-                ans = mid;
-                right = mid - 1;
+        int left = *min_element(nums.begin(), nums.end());
+        int right = *max_element(nums.begin(), nums.end());
+        
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            if (canStealKHouses(nums, k, mid)) {
+                right = mid;
             } else {
                 left = mid + 1;
             }
         }
-        return ans;
+        
+        return left;
     }
 };
