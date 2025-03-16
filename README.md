@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Sunny9507/dsa/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sunny9507/dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sunny9507/dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Sunny9507/dsa/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Sunny9507/dsa/tree/master/2690-house-robber-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sunny9507/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sunny9507/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sunny9507/dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sunny9507/dsa/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sunny9507/dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Sunny9507/dsa/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Sunny9507/dsa/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sunny9507/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sunny9507/dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
