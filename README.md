@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sunny9507/dsa/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Sunny9507/dsa/tree/master/0696-count-binary-substrings) |
+| [0874-backspace-string-compare](https://github.com/Sunny9507/dsa/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Sunny9507/dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sunny9507/dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sunny9507/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -612,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/Sunny9507/dsa/tree/master/0696-count-binary-substrings) |
 | [0807-custom-sort-string](https://github.com/Sunny9507/dsa/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Sunny9507/dsa/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/Sunny9507/dsa/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sunny9507/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Sunny9507/dsa/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sunny9507/dsa/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -802,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sunny9507/dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sunny9507/dsa/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/Sunny9507/dsa/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Sunny9507/dsa/tree/master/0898-transpose-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sunny9507/dsa/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sunny9507/dsa/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -838,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Sunny9507/dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sunny9507/dsa/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sunny9507/dsa/tree/master/0445-add-two-numbers-ii) |
+| [0874-backspace-string-compare](https://github.com/Sunny9507/dsa/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sunny9507/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Sunny9507/dsa/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/Sunny9507/dsa/tree/master/1078-remove-outermost-parentheses) |
