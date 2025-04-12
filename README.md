@@ -535,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sunny9507/dsa/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sunny9507/dsa/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sunny9507/dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3548-find-the-count-of-good-integers](https://github.com/Sunny9507/dsa/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sunny9507/dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sunny9507/dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sunny9507/dsa/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sunny9507/dsa/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sunny9507/dsa/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Sunny9507/dsa/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Sunny9507/dsa/tree/master/3548-find-the-count-of-good-integers) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sunny9507/dsa/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Sunny9507/dsa/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sunny9507/dsa/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -953,6 +955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sunny9507/dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sunny9507/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Sunny9507/dsa/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Sunny9507/dsa/tree/master/3548-find-the-count-of-good-integers) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1177,4 +1180,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sunny9507/dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3548-find-the-count-of-good-integers](https://github.com/Sunny9507/dsa/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
