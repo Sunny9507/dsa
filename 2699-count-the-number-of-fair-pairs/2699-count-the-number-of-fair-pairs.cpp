@@ -1,20 +1,14 @@
 class Solution {
- public:
-  long long countFairPairs(vector<int>& nums, int lower, int upper) {
-    // nums[i] + nums[j] == nums[j] + nums[i], so the condition that i < j
-    // degrades to i != j and we can sort the array.
-    ranges::sort(nums);
-    return countLess(nums, upper) - countLess(nums, lower - 1);
-  }
+public:
+    long long countFairPairs(vector<int>& v, int lower, int upper) {
+        long long ans = 0;
+        sort(v.begin(), v.end());
 
- private:
-  long countLess(const vector<int>& nums, int sum) {
-    long res = 0;
-    for (int i = 0, j = nums.size() - 1; i < j; ++i) {
-      while (i < j && nums[i] + nums[j] > sum)
-        --j;
-      res += j - i;
+        for (int i = 0; i < v.size() - 1; i++) {
+            auto up = upper_bound(v.begin() + i + 1, v.end(), upper - v[i]);
+            auto low = lower_bound(v.begin() + i + 1, v.end(), lower - v[i]);
+            ans += (up - low);
+        }
+        return ans;
     }
-    return res;
-  }
 };
