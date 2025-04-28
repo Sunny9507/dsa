@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/Sunny9507/dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sunny9507/dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sunny9507/dsa/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Sunny9507/dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Sunny9507/dsa/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sunny9507/dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Sunny9507/dsa/tree/master/2478-longest-nice-subarray) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sunny9507/dsa/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sunny9507/dsa/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sunny9507/dsa/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Sunny9507/dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sunny9507/dsa/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sunny9507/dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Sunny9507/dsa/tree/master/2665-minimum-time-to-repair-cars) |
@@ -791,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sunny9507/dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Sunny9507/dsa/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Sunny9507/dsa/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Sunny9507/dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sunny9507/dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Sunny9507/dsa/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sunny9507/dsa/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -818,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/Sunny9507/dsa/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/Sunny9507/dsa/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sunny9507/dsa/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Sunny9507/dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Sunny9507/dsa/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunny9507/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sunny9507/dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
