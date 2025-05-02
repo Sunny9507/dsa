@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Sunny9507/dsa/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Sunny9507/dsa/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Sunny9507/dsa/tree/master/0410-split-array-largest-sum) |
+| [0868-push-dominoes](https://github.com/Sunny9507/dsa/tree/master/0868-push-dominoes) |
 | [0909-stone-game](https://github.com/Sunny9507/dsa/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sunny9507/dsa/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Sunny9507/dsa/tree/master/1170-shortest-common-supersequence) |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Sunny9507/dsa/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Sunny9507/dsa/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Sunny9507/dsa/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Sunny9507/dsa/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Sunny9507/dsa/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Sunny9507/dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sunny9507/dsa/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -668,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Sunny9507/dsa/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/Sunny9507/dsa/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Sunny9507/dsa/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Sunny9507/dsa/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Sunny9507/dsa/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sunny9507/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Sunny9507/dsa/tree/master/1078-remove-outermost-parentheses) |
