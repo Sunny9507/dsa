@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Sunny9507/dsa/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sunny9507/dsa/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sunny9507/dsa/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/Sunny9507/dsa/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sunny9507/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sunny9507/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -914,6 +915,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Sunny9507/dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Sunny9507/dsa/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sunny9507/dsa/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/Sunny9507/dsa/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/Sunny9507/dsa/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sunny9507/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Sunny9507/dsa/tree/master/1002-maximum-width-ramp) |
@@ -1043,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Sunny9507/dsa/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Sunny9507/dsa/tree/master/1002-maximum-width-ramp) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sunny9507/dsa/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sunny9507/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
