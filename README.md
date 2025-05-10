@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/Sunny9507/dsa/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sunny9507/dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sunny9507/dsa/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sunny9507/dsa/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sunny9507/dsa/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sunny9507/dsa/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sunny9507/dsa/tree/master/3291-find-if-array-can-be-sorted) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sunny9507/dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunny9507/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sunny9507/dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sunny9507/dsa/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Sunny9507/dsa/tree/master/3195-separate-black-and-white-balls) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Sunny9507/dsa/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Two Pointers
