@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sunny9507/dsa/tree/master/0045-jump-game-ii) |
+| [0402-remove-k-digits](https://github.com/Sunny9507/dsa/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sunny9507/dsa/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sunny9507/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Sunny9507/dsa/tree/master/0670-maximum-swap) |
@@ -696,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Sunny9507/dsa/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/Sunny9507/dsa/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/Sunny9507/dsa/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Sunny9507/dsa/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Sunny9507/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Sunny9507/dsa/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Sunny9507/dsa/tree/master/0696-count-binary-substrings) |
@@ -959,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Sunny9507/dsa/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Sunny9507/dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Sunny9507/dsa/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Sunny9507/dsa/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Sunny9507/dsa/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Sunny9507/dsa/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sunny9507/dsa/tree/master/0735-asteroid-collision) |
@@ -1094,6 +1097,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sunny9507/dsa/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Sunny9507/dsa/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Sunny9507/dsa/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sunny9507/dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Sunny9507/dsa/tree/master/1002-maximum-width-ramp) |
