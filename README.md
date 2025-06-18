@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sunny9507/dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sunny9507/dsa/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Sunny9507/dsa/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sunny9507/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sunny9507/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sunny9507/dsa/tree/master/0283-move-zeroes) |
@@ -784,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sunny9507/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sunny9507/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Sunny9507/dsa/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sunny9507/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Sunny9507/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sunny9507/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -844,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sunny9507/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Sunny9507/dsa/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Sunny9507/dsa/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sunny9507/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunny9507/dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1164,6 +1167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sunny9507/dsa/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunny9507/dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sunny9507/dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sunny9507/dsa/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1172,6 +1176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sunny9507/dsa/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunny9507/dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sunny9507/dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sunny9507/dsa/tree/master/2527-count-subarrays-with-fixed-bounds) |
