@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/Sunny9507/dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sunny9507/dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sunny9507/dsa/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sunny9507/dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sunny9507/dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Sunny9507/dsa/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sunny9507/dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sunny9507/dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sunny9507/dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sunny9507/dsa/tree/master/2300-construct-string-with-repeat-limit) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sunny9507/dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sunny9507/dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunny9507/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sunny9507/dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sunny9507/dsa/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sunny9507/dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sunny9507/dsa/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sunny9507/dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sunny9507/dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sunny9507/dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/Sunny9507/dsa/tree/master/2554-minimum-total-distance-traveled) |
