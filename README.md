@@ -394,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sunny9507/dsa/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Sunny9507/dsa/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sunny9507/dsa/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sunny9507/dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Sunny9507/dsa/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3647-zero-array-transformation-iii](https://github.com/Sunny9507/dsa/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sunny9507/dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Sunny9507/dsa/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sunny9507/dsa/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sunny9507/dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sunny9507/dsa/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sunny9507/dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sunny9507/dsa/tree/master/3548-find-the-count-of-good-integers) |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sunny9507/dsa/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sunny9507/dsa/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sunny9507/dsa/tree/master/3291-find-if-array-can-be-sorted) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sunny9507/dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Sunny9507/dsa/tree/master/3430-count-days-without-meetings) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/Sunny9507/dsa/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3647-zero-array-transformation-iii](https://github.com/Sunny9507/dsa/tree/master/3647-zero-array-transformation-iii) |
@@ -763,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/Sunny9507/dsa/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sunny9507/dsa/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sunny9507/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sunny9507/dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/Sunny9507/dsa/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Sunny9507/dsa/tree/master/3451-string-compression-iii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sunny9507/dsa/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -847,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/Sunny9507/dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sunny9507/dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sunny9507/dsa/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sunny9507/dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sunny9507/dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sunny9507/dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
