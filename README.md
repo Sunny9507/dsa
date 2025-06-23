@@ -983,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Sunny9507/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Sunny9507/dsa/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Sunny9507/dsa/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Sunny9507/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sunny9507/dsa/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Sunny9507/dsa/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Sunny9507/dsa/tree/master/0445-add-two-numbers-ii) |
@@ -1183,6 +1184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sunny9507/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Sunny9507/dsa/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunny9507/dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sunny9507/dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1279,6 +1281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sunny9507/dsa/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Sunny9507/dsa/tree/master/0225-implement-stack-using-queues) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sunny9507/dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Sunny9507/dsa/tree/master/2434-design-a-number-container-system) |
 ## Reservoir Sampling
