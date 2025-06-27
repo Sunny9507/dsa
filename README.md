@@ -386,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/Sunny9507/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Sunny9507/dsa/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sunny9507/dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Sunny9507/dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sunny9507/dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sunny9507/dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sunny9507/dsa/tree/master/2300-construct-string-with-repeat-limit) |
@@ -754,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sunny9507/dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Sunny9507/dsa/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Sunny9507/dsa/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Sunny9507/dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sunny9507/dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sunny9507/dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sunny9507/dsa/tree/master/2232-adding-spaces-to-a-string) |
@@ -854,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sunny9507/dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sunny9507/dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sunny9507/dsa/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Sunny9507/dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sunny9507/dsa/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sunny9507/dsa/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sunny9507/dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -977,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Sunny9507/dsa/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sunny9507/dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Sunny9507/dsa/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Sunny9507/dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sunny9507/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sunny9507/dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sunny9507/dsa/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1068,6 +1072,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1656-count-good-triplets](https://github.com/Sunny9507/dsa/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sunny9507/dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Sunny9507/dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sunny9507/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Sunny9507/dsa/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Sunny9507/dsa/tree/master/2998-count-symmetric-integers) |
